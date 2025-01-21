@@ -1,5 +1,3 @@
-Here's the content formatted in markdown:
-
 # Maya's Mathematics Improvement Plan
 
 ## Step 1: Diagnose the Root Causes
